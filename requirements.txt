@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+langchain
+langchain-community
+langchain-openai
+chromadb
+tiktoken
+# For local LLM embeddings if needed later
+sentence-transformers

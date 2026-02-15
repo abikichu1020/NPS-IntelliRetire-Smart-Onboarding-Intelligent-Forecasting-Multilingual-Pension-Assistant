@@ -1,0 +1,34 @@
+ National Pension System (NPS) is a voluntary, long-term retirement savings scheme designed to enable systematic savings during your working life. It is regulated by the Pension Fund Regulatory and Development Authority (PFRDA).
+
+**Eligibility:**
+- Any citizen of India (resident or non-resident) between 18 and 70 years of age can open an NPS account.
+- Overseas Citizens of India (OCI) are also eligible to enroll in NPS.
+
+**Account Types:**
+1. **Tier I Account:**
+   - This is the primary pension account and is mandatory.
+   - Withdrawals are restricted and subject to specific conditions to ensure corpus accumulation for retirement.
+   - Contributions to Tier I are eligible for tax deductions under Section 80C and Section 80CCD(1B) of the Income Tax Act.
+
+2. **Tier II Account:**
+   - This is a voluntary savings facility available as an add-on to any active Tier I account holder.
+   - Subscribers can withdraw their savings from this account anytime, without restriction.
+   - No tax benefits are available for contributions to Tier II accounts (except for government employees under specific conditions).
+
+**Asset Classes:**
+- **Equity (E):** Investments in stocks/shares. High risk, high return potential. Cap of 75%.
+- **Corporate Bonds (C):** Investments in fixed income instruments issued by private companies. Moderate risk.
+- **Government Securities (G):** Investments in government bonds. Low risk.
+- **Alternative Assets (A):** Investments in REITs, InvITs, etc. Cap of 5%.
+
+**Investment Choices:**
+- **Active Choice:** Individual decides the asset allocation (%) between E, C, G, and A.
+- **Auto Choice (Lifecycle Fund):** Allocation is automatically adjusted based on age.
+  - **LC75 (Aggressive):** Starts with 75% Equity up to age 35, then tapers.
+  - **LC50 (Moderate):** Starts with 50% Equity up to age 35, then tapers.
+  - **LC25 (Conservative):** Starts with 25% Equity up to age 35, then tapers.
+
+**Exit & Withdrawal:**
+- **At 60 Years:** At least 40% of the corpus must be used to purchase an annuity (monthly pension). The remaining 60% can be withdrawn as a tax-free lump sum.
+- **Before 60 Years (Premature Exit):** Allowed only after 10 years. At least 80% must be used for annuity; max 20% lump sum.
+- **Partial Withdrawal:** Up to 25% of own contributions allowed after 3 years for specific reasons (illness, education, housing). Max 3 times in tenure.
